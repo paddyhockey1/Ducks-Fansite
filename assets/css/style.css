@@ -227,4 +227,55 @@ body {
         }
     
         /*--All-Staff-Styling-Goes-Above-Here--*/
+
+        .team-logo {
+            width: 50px;
+            height: 50px;
+            margin-top: 5px;
+        }
+    
+        tr {
+            margin: 0 20px;
+        }
+    
+        th,
+        td {
+            width: 10%;
+            border-bottom: 1px solid black;
+        }
+    
+        .standings-head {
+            text-align: center;
+            text-transform: uppercase;
+            text-decoration: underline;
+            text-decoration-style: double;
+        }
+    
+        .pacific-head {
+            margin: 40px 0;
+            text-align: center;
+            text-transform: uppercase;
+            text-decoration: underline;
+        }
+    
+        .west-head {
+            margin: 40px 0;
+            text-align: center;
+            text-transform: uppercase;
+            text-decoration: underline;
+        }
+    
+        tr:nth-child(even) {
+            background-color: rgb(225, 225, 225);
+        }
+    
+        tr:nth-child(odd) {
+            background-color: rgb(210, 210, 210);
+        }
+    
+        .ducks {
+            background-color: rgb(252, 76, 2)
+        }
+    
+        /*--All-standings-Styling-Goes-Above-Here--*/
     
