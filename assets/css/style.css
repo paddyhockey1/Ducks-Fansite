@@ -191,4 +191,40 @@ body {
         }
     
         /*--All-Roster-Styling-Goes-Above-Here--*/
+
+        .staff-head {
+            margin-left: 30px
+        }
+    
+        .staff-sub {
+            margin: 15px 30px;
+        }
+    
+        .coaches {
+            margin: 15px 30px;
+        }
+    
+        .bio-image {
+            margin: auto;
+            display: block;
+        }
+    
+        .bio-head {
+            text-align: center;
+        }
+    
+        .bio-sub {
+            text-align: center;
+        }
+    
+        p {
+            display: block;
+            margin: auto 40px;
+        }
+    
+        hr {
+            margin: 20px 40px;
+        }
+    
+        /*--All-Staff-Styling-Goes-Above-Here--*/
     
