@@ -1,0 +1,145 @@
+/*--
+Ducks Colours 
+Orange: (252, 76, 2) #F47A38
+Gold: (185, 151, 91) #B9975B
+Silver: (193, 198, 200) #C1C6C8
+--*/
+
+/*--Ducks Colours Above--*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.inter {
+	font-family: "Inter", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+}
+
+/*--Font Styling Above--*/
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: inter;
+
+
+	* {
+		margin: 0;
+		padding: 0;
+	}
+
+
+	.top {
+		background-color: black;
+		width: 100%;
+		height: 80px;
+	}
+
+	.top-img1 {
+		width: 50px;
+		margin: 20px 0 0 20px
+	}
+
+	.topnav {
+		background-color: black;
+		padding: 15px;
+		margin-bottom: 10px;
+
+	}
+
+	.topnav a {
+		color: white;
+		text-decoration: none;
+		text-transform: uppercase;
+		margin-right: 10px;
+	}
+
+	.topnav a:hover {
+		color: rgb(252, 76, 2);
+		/* text-decoration: underline; */
+	}
+
+	.topnav .icon {
+		display: none;
+	}
+
+	.topnav a.active {
+		background-color: black;
+		color: white;
+	}
+
+	.topnav .icon {
+		display: none;
+	}
+
+
+	.hero {
+		width: 98%;
+		height: 600px;
+		background-image: url('../images/home-page/ducks-retired-jerseys.jpg');
+		background-color: black;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: cover;
+		position: relative;
+		margin: 20px auto;
+		display: block;
+	}
+
+	#cover-text {
+		background-color: rgba(252, 76, 2, .7);
+		font-size: 130%;
+		width: 80%;
+		position: absolute;
+		bottom: 30px;
+		min-height: 200px;
+		padding-top: 20px;
+		padding-left: 10px;
+	}
+
+	#cover-text>h2,
+	#cover-text>h3 {
+		color: white;
+		text-transform: uppercase;
+	}
+
+	/*--All-Above-Goes-Into-Every-Page--*/
+
+    
+	#latest {
+        text-transform: uppercase;
+        text-decoration: underline;
+        width: 100%;
+        text-align: center;
+        font-size: 25px;
+        margin: 40px;
+        }
+    
+        .index-head {
+        width: 60%;
+        margin: 25px auto;
+        text-align: center;
+        text-transform: uppercase;
+        /* text-decoration: underline; */
+        }
+    
+        .index-image {
+        width: 60%;
+        display: block;
+        margin: 5px auto;
+        }
+    
+        .index-para {
+        width: 60%;
+        display: block;
+        margin: 5px auto;
+        padding: 1rem;
+        }
+    
+        #index-link {
+        color: black;
+        text-decoration: none;
+        }
+    
+        /*--All-Index-Styling-Goes-Above-Here--*/
