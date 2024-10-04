@@ -107,7 +107,7 @@ body {
 	/*--All-Above-Goes-Into-Every-Page--*/
 
     
-	#latest {
+	.latest {
         text-transform: uppercase;
         text-decoration: underline;
         width: 100%;
