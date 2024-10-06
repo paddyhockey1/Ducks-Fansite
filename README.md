@@ -114,7 +114,7 @@ There is also a section dedicated to the team's backroom staff section. Both own
 #### Pacific Division
 
 
-The standings page will provide the user with the final standings for the Facific Divison. The Pacific Division Standings page also includes a small icon of the team's logo along with their rank within the division. These standings will include a brief statistical breakdown for each team withinn the division including: games played, wins, losses, overtime losses, and points. There are further statistics for both goals for and goals against in desktop and tablet. These statistics have had to be removed from mobile for space saving reasons
+The standings page will provide the user with the final standings for the Facific Divison. The Pacific Division Standings page also includes a small icon of the team's logo along with their rank within the division. These standings will include a brief statistical breakdown for each team within the division including: games played, wins, losses, overtime losses, and points. There are further statistics for both goals for and goals against in desktop and tablet. These statistics have had to be removed from mobile for space saving reasons
 
 
 There is a clear indicator for the ducks that will allow users to see where the team finished.
@@ -319,3 +319,4 @@ The page also contains the same statistical breakdown for the wider Western Conf
 - All social media links were taken from the [W3 Schools](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp) social media buttons page.
 
 
+- I have previously made the necessary alterations in another Github repository and used it to amend this project. The repository I created can be accessed [here](https://github.com/rogiethegoalie/Ducks-Site-Redo)
