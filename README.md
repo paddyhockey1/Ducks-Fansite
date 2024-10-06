@@ -135,7 +135,7 @@ The page also contains the same statistical breakdown for the wider Western Conf
 ### Future Features
 
 
-* A schedule page that would list the Ducks' opponenets for the 2024/25 NHL season. Ths could be seperated by month with clear indicators for whether it is a home or away game.
+* A schedule page that would list the Ducks' opponenets for the 2024/25 NHL season. Ths could be seperated by month with clear indicators for whether it is a home or away game. I had attempted to insert this page here but it resulted in numerous errors in my HTML validation so I decided to eliminate it from this project. That page can be accessed [here](https://github.com/rogiethegoalie/Ducks-Site-Redo/blob/main/schedule.html)
 
   
 * I would like to include a history page. This would detail the team's entire history from 1993. It would also include some of the team's greatest players and statistical breakdowns of past seasons.
