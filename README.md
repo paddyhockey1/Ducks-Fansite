@@ -263,5 +263,30 @@ The page also contains the same statistical breakdown for the wider Western Conf
   
   
   - After master branch has been selected, page will be refreshed automatically with confirmation that deployment has been successful   
-  - From settings menu navigate to "page" tab then "default branch" to select master branch.
-  - After master branch has been selected, page will be refreshed automatically with confirmation that deployment has been successful   
+
+
+  ## Wireframes
+
+
+  ### Home Page - Desktop
+
+  
+![desktop-home](https://github.com/user-attachments/assets/5ad5c9f0-46f2-4372-956c-c646ccfa35c4)
+
+
+### Roster Page - Desktop
+
+
+![desktop roster](https://github.com/user-attachments/assets/207186f5-61a0-466e-b85a-486bd7b3c073)
+
+
+### Staff Page - Desktop
+
+
+![desktop staff](https://github.com/user-attachments/assets/84f2d7cf-591b-49d6-a1cd-133d2e52dac3)
+
+
+### Standings Page - Desktop
+
+
+![desktop standings](https://github.com/user-attachments/assets/ae9d98db-1b24-4719-9cc6-7225abdfb902)
