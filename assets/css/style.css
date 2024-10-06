@@ -11,7 +11,6 @@ Silver: (193, 198, 200) #C1C6C8
 
 .inter {
 	font-family: "Inter", sans-serif;
-	font-optical-sizing: auto;
 	font-weight: 500;
 	font-style: normal;
 }
@@ -479,7 +478,7 @@ body {
 			width: 90%;
 			margin: auto;
 		}
-	}}
+	}
 
     /*--Media Queries Go Above Here--*/
 
@@ -530,4 +529,4 @@ body {
 
 	#index-h5 {
 		color: white
-	}
+	}}
