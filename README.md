@@ -132,3 +132,26 @@ The page also contains the same statistical breakdown for the wider Western Conf
 ![western-conference](https://github.com/user-attachments/assets/2412d0cf-47a8-4816-a6bb-e96a8bf3db15)
 
 
+### Future Features
+
+
+* A schedule page that would list the Ducks' opponenets for the 2024/25 NHL season. Ths could be seperated by month with clear indicators for whether it is a home or away game.
+
+  
+* I would like to include a history page. This would detail the team's entire history from 1993. It would also include some of the team's greatest players and statistical breakdowns of past seasons.
+
+
+* A more detailed roster page with internal links for each member of the roster. This would include statistics and a brief biography along with transaction history and contract information.
+
+
+* A gallery of games and team events. This could inlude images form games along with fan events and the team's charitable endeavours. Video could be added for game hightlights and post-game interviews. 
+
+
+* The inclusion of a contact page would allow more interaction with the user. Should the user wish to make contact, a variety of contact options would be available to them to make contact.
+
+* A page with more information of the team's home arena. This would include ticket information, a map of the arena, a guide to local hotels and atractions, and local transport links. There could also be an option for n external link to the Honda Center website. 
+
+
+* A page that would allow visitors of the page to interact with each other. A forum or message board would provide this option.
+
+
