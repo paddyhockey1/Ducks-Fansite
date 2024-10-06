@@ -331,7 +331,56 @@ body {
 	}
 
 	/*--All-Error-Styling-Goes-Above-Here--*/
+    
+	/*--All-Below-Goes-Into-Every-Page--*/
 
+	.social {
+		background-color: black;
+		width: 100%;
+		display: block;
+		margin: auto auto 0 auto;
+		text-align: center;
+		bottom: 0px;
+		margin: 0;
+		padding: 0;
+	}
+
+
+	#foot {
+		color: white;
+		text-align: center;
+	}
+
+	.fa {
+
+		height: 30px;
+		width: 30px;
+		text-align: center;
+		margin: auto;
+		text-decoration: none;
+	}
+
+	.fa-instagram {
+		color: white
+	}
+
+	.fa-facebook {
+		color: white
+	}
+
+	.fa-twitter {
+		color: white
+	}
+
+	.fa-youtube {
+		color: white;
+	}
+
+	#index-h5 {
+		color: white
+	}
+
+	
      /*--All-Media-Queries-Go-Below-Here--*/
     
   
@@ -391,142 +440,5 @@ body {
 		  width: 90%;
 		  margin: auto;
 		}
-  
-	  }
-  
-	  @media screen and (max-width: 600px) {
-  
-		.topnav a:not(:first-child) {display: none;}
-		.topnav a.icon {
-		  float: right;
-		  display: block;
-		}
-  
-		.topnav.responsive {position: relative;}
-		.topnav.responsive .icon {
-		  position: absolute;
-		  right: 0;
-		  top: 0;
-		}
-  
-		.topnav.responsive a {
-		  float: none;
-		  margin-bottom: 10px;
-		  display: block;
-		  text-align: left;
-		}
-  
-		.topnav.responsive a:hover {
-		  float: none;
-		  color: rgb(252,76,2);
-		  display: block;
-		  text-align: left;
-		}
-  
-		.hide {
-		  display: none;
-  
-		}
-  
-		table {
-		  width: 90%;
-		  margin: auto;
-		}
-  
-	  }
-
-	@media screen and (max-width: 600px) {
-
-		.topnav a:not(:first-child) {
-			display: none;
-		}
-
-		.topnav a.icon {
-			float: right;
-			display: block;
-		}
-
-		.topnav.responsive {
-			position: relative;
-		}
-
-		.topnav.responsive .icon {
-			position: absolute;
-			right: 0;
-			top: 0;
-		}
-
-		.topnav.responsive a {
-			float: none;
-			margin-bottom: 10px;
-			display: block;
-			text-align: left;
-		}
-
-		.topnav.responsive a:hover {
-			float: none;
-			color: rgb(252, 76, 2);
-			display: block;
-			text-align: left;
-		}
-
-		.hide {
-			display: none;
-		}
-
-		table {
-			width: 90%;
-			margin: auto;
-		}
 	}
-
-    /*--Media Queries Go Above Here--*/
-
-    
-	/*--All-Below-Goes-Into-Every-Page--*/
-
-	.social {
-		background-color: black;
-		width: 100%;
-		display: block;
-		margin: auto auto 0 auto;
-		text-align: center;
-		bottom: 0px;
-		margin: 0;
-		padding: 0;
-	}
-
-
-	#foot {
-		color: white;
-		text-align: center;
-	}
-
-	.fa {
-
-		height: 30px;
-		width: 30px;
-		text-align: center;
-		margin: auto;
-		text-decoration: none;
-	}
-
-	.fa-instagram {
-		color: white
-	}
-
-	.fa-facebook {
-		color: white
-	}
-
-	.fa-twitter {
-		color: white
-	}
-
-	.fa-youtube {
-		color: white;
-	}
-
-	#index-h5 {
-		color: white
-	}}
+}
