@@ -155,3 +155,45 @@ The page also contains the same statistical breakdown for the wider Western Conf
 * A page that would allow visitors of the page to interact with each other. A forum or message board would provide this option.
 
 
+## Testing
+
+
+### HTML
+
+[W3C markup Validation Service](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpaddyhockey1.github.io%2FDucks-Fansite%2F) found no errors in my HTML code.
+
+
+### Home Page
+
+
+![home](https://github.com/user-attachments/assets/f98da182-7f87-4679-ad71-375b02275917)
+
+
+### Roster Page
+
+
+![roster](https://github.com/user-attachments/assets/549bb5c7-5b8e-4298-b648-69d50cf0c1fd)
+
+
+### Staff Page
+
+
+![staff](https://github.com/user-attachments/assets/2bc46448-df70-49a4-b450-e08abc0eba1e)
+
+
+### Standings Page
+
+
+![standings](https://github.com/user-attachments/assets/b0072d89-7ccf-4b76-8f17-5330acf01916)
+
+
+### Contact Page
+
+
+![contact](https://github.com/user-attachments/assets/434938f4-0027-435b-a5d4-26b2a6f0c661)
+
+
+### Error 404 Page
+
+
+![404](https://github.com/user-attachments/assets/a5b4573a-35bd-462f-89fa-999c12c9064e)
