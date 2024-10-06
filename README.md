@@ -205,7 +205,22 @@ The page also contains the same statistical breakdown for the wider Western Conf
 ![lighthouse](https://github.com/user-attachments/assets/01f25c94-6d4c-4b65-8452-fb6fca00df17)
 
 
+* I ran my code through Lighthouse and received high scores in performance, accessibility and best practices.
+
+  
+* Performance was excellent. It suggested that I re-size my hero image but when I attempted that the image became less clear and gave the page a poor aesthetic look.
+
+
+* Accessibility was very good with a single recommendation that I cheading elements are not in sequential order.
+
+
+* Best practices found no problems with my code.
+
+
 ### Wave Report
+
+
+* Wave found no errors in my project.
 
 
 ![wave](https://github.com/user-attachments/assets/d31bc707-4a12-4ead-a23a-33c502f57519)
