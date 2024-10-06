@@ -197,3 +197,18 @@ The page also contains the same statistical breakdown for the wider Western Conf
 
 
 ![404](https://github.com/user-attachments/assets/a5b4573a-35bd-462f-89fa-999c12c9064e)
+
+
+### Lighthouse Report
+
+
+![lighthouse](https://github.com/user-attachments/assets/01f25c94-6d4c-4b65-8452-fb6fca00df17)
+
+
+### Wave Report
+
+
+![wave](https://github.com/user-attachments/assets/d31bc707-4a12-4ead-a23a-33c502f57519)
+
+
+
