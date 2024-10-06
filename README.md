@@ -286,7 +286,36 @@ The page also contains the same statistical breakdown for the wider Western Conf
 ![desktop staff](https://github.com/user-attachments/assets/84f2d7cf-591b-49d6-a1cd-133d2e52dac3)
 
 
-### Standings Page - Desktop
+## Credits
 
 
-![desktop standings](https://github.com/user-attachments/assets/ae9d98db-1b24-4719-9cc6-7225abdfb902)
+* I would like to thank both my facilitator and my mentor for their help in helping me create both my project and README. I would also like to thank the various classmates who have helped in a variety of ways.
+
+
+### Media
+
+
+* I used a large amount of images as I required images for each individual player, coach and team logo. I believe that individual images for each of these elements have helped enhance the user experience.
+
+
+- The image in the hero section is taken from the [Yardbarker](https://www.yardbarker.com/nhl/articles/ducks_legends_scott_niedermayer_paul_kariya_to_aid_gm_search/s1_14825_36893318) website.
+
+
+- The favicon was taken from the [Wikipedia](https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Anaheim_Ducks.svg/220px-Anaheim_Ducks.svg.png) website of the Anaheim Ducks.
+
+
+- The images for the headlines were taken from the Offical Anaheim Ducks Website[Here](https://media.d3.nhle.com/image/private/t_ratio16_9-size40/f_png/prd/dmh90blvb0frlsycrgfq.png) and [Here](https://media.d3.nhle.com/image/private/t_ratio16_9-size40/f_auto/prd/xt9zsocxvucaeyqqxq17.jpg) the Las Vegas Sphere Image was taken from the Canadian Broadcasting Company [CBC](https://i.cbc.ca/1.7049915.1701813408!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/sphere-las-vegas-231117-1180.jpg)
+
+
+- The roster image icons were taken from the roster tab also on the official Ducks Website [Roster Page](https://www.nhl.com/ducks/roster)
+
+
+- Coach images were taken form the [2023-24 Anaheim Ducks Media Guide](https://issuu.com/anaheimducks0/docs/2023-24_anaheim_media_guide?fr=sYTMzZjY1MDE1Njk) pages 18-22.
+
+
+- The team icons used in the standings page were taken from [Wikipedia](https://en.wikipedia.org/wiki/Western_Conference_(NHL)) page and the team's own respective pages.
+
+
+- All social media links were taken from the [W3 Schools](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp) social media buttons page.
+
+
