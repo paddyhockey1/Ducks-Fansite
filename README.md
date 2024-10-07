@@ -226,6 +226,12 @@ The page also contains the same statistical breakdown for the wider Western Conf
 ![wave](https://github.com/user-attachments/assets/d31bc707-4a12-4ead-a23a-33c502f57519)
 
 
+### W3C CSS Validation
+
+
+![W3C CSS Validation](https://github.com/user-attachments/assets/8bb6e62f-11ef-462b-bf7d-4247d64f8798)
+
+
 ### Bugs
 
 
